@@ -116,3 +116,18 @@ If you complete your chosen challenge early, consider:
 - Creating a user interface to control robot parameters (JFrame, Swing, JavaFX)
 - Implementing multiple modes of operation
 - Adding an obstacle detection and avoidance system
+
+## Project Description
+this project was designed to have either a solo or partner group create a dance, movement, artwork, etc with the finch robot. my partner and I made our robot make a a house with the marker inserted into the marker/pencil holder on the top of it. 
+
+## Descriptions and Objectives 
+my partner and I chose to make the robot light up all blue and make a house. the robot used consistent methods like move, turnRight/Left, and etc. these methods made the code work as intended. we chose this design because we are both not excellent coders, so we chose something within our reach.
+
+## Challenges 
+a challenge we faced was when the robot did not light up the color we wanted it to. the robot originally showed a pink color, when we wanted the whole robot to show blue. We fixed it by rearranging the code in the order we want, to make sure the blue hue we wanted was most important. 
+
+## Future Enhancements 
+future enhancements that we want to add are different notes and music when the robot ends and when the robot begins. 
+
+## Videos of Finch in Action 
+[[Video Title]](https://youtube.com/shorts/fsw_fBmPDjU?si=QzL4iGTWdjj_jIzC)
